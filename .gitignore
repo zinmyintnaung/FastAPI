@@ -4,3 +4,8 @@
 /project-two/_pycache_
 /project-two/fastapienv
 
+/project-three/fastapienv
+/project-three/TodoApp/_pycache_
+/project-three/TodoApp/todosapp.db
+/project-three/TodoApp/routers/_pycache_
+
