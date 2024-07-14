@@ -1,11 +1,10 @@
-/project-one/_pycache_
+/project-one/__pycache__
 /project-one/fastapienv
 
-/project-two/_pycache_
+/project-two/__pycache__
 /project-two/fastapienv
 
 /project-three/fastapienv
-/project-three/TodoApp/_pycache_
+/project-three/TodoApp/__pycache__
 /project-three/TodoApp/todosapp.db
-/project-three/TodoApp/routers/_pycache_
-
+/project-three/TodoApp/routers/__pycache__
